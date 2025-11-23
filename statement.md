@@ -3,7 +3,7 @@
 * Educational Institutions: Helps enforce safety in classrooms and campuses.
 * Airports & Public Transport: Monitors large crowds for compliance.
 * Corporate Offices & Factories: Maintains workplace safety standards.
-This project addresses the problem of scalable, accurate, and efficient mask detection to enhance public safety and reduce reliance on manual enforcement.
+* This project addresses the problem of scalable, accurate, and efficient mask detection to enhance public safety and reduce reliance on manual enforcement.
 
 ## Scope of project
 * Developing AI/ML models to detect whether individuals are wearing masks.
@@ -37,4 +37,5 @@ Gain data-driven insights into compliance rates, helping shape public health
 
 ## High-Level features
  The high-level features of mask detection are AI-powered face recognition, real-time monitoring, alerting, analytics, and seamless integration with surveillance systems.
+
 
