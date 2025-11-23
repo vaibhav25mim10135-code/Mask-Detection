@@ -7,6 +7,7 @@
 ### Tools/Technology used:-
 * Google Colab
 * Anaconda Prompt
+* Python(.py/.ipynb)
 ### Steps to install:-
 * Install dataset the custom dataset on yolo-11s that i have created through label studio , dataset is named as 📁 data.zip.
 * Open Google Colab and open a new notebook
@@ -20,7 +21,14 @@
 * Deploy Model
 * Download your model  <img width="1918" height="1078" alt="Screenshot 2025-11-23 185127" src="https://github.com/user-attachments/assets/e2dfaa47-327c-4051-9458-2eebe3f675f5" />  <img width="1918" height="692" alt="Screenshot 2025-11-23 185550" src="https://github.com/user-attachments/assets/710dd9f3-a641-4bd9-a1b8-92c5f2df606f" />
 * Save the model.zip and extract it in a folder.
-* 
+
+### Run the project:-
+* Extract the model.zip file  in a folder.
+* Install anaconda distribution installer and after installation open anaconda prompt
+* Create a new python environment <img width="1490" height="757" alt="Screenshot 2025-11-23 190636" src="https://github.com/user-attachments/assets/a2339909-bb56-4d6c-bff6-94d92e0931eb" />
+*
+
+
 
 
 
