@@ -16,6 +16,10 @@
 * Configure training
 * Train model  <img width="1915" height="915" alt="train" src="https://github.com/user-attachments/assets/64bb0a13-b7be-4eb0-bb29-a1b1ba736490" />
 * Test model  <img width="1915" height="922" alt="train2" src="https://github.com/user-attachments/assets/faf3035b-f58e-4379-934a-3c79c5139b0f" /> <img width="1918" height="1078" alt="Screenshot 2025-11-23 184843" src="https://github.com/user-attachments/assets/977b7218-c022-4ff4-84d2-7602fedef39d" />
+* Deploy Model
+* Download your model  <img width="1918" height="1078" alt="Screenshot 2025-11-23 185127" src="https://github.com/user-attachments/assets/e2dfaa47-327c-4051-9458-2eebe3f675f5" />
+* 
+
 
 
 
