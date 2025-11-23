@@ -8,7 +8,12 @@
 * Google Colab
 * Anaconda Prompt
 ### Steps to install:-
-* Install dataset the custom dataset that i have created through label studio , dataset is named as data.zip
+* Install dataset the custom dataset on yolo-11s that i have created through label studio , dataset is named as 📁 data.zip.
+* unzip the data.zip with given code 
+* split the images in training and validation
+* install ultralytics
+* configure training
+* train model
 * 
 
 
