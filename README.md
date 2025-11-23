@@ -11,6 +11,7 @@
 ### Steps to install:-
 * Install dataset the custom dataset on yolo-11s that i have created through label studio , dataset is named as 📁 data.zip.
 * Open Google Colab and open a new notebook
+* If you have nvidia gpu then execute the first code in colab
 * Upload the data.zip file in google colab <img width="1918" height="1078" alt="img2" src="https://github.com/user-attachments/assets/3253a5bd-9950-4382-84f4-06bf049ae01a" />
 * Unzip the data.zip with given code 
 * Split the images in training and validation
@@ -26,7 +27,11 @@
 * Extract the model.zip file  in a folder.
 * Install anaconda distribution installer and after installation open anaconda prompt
 * Create a new python environment <img width="1490" height="757" alt="Screenshot 2025-11-23 190636" src="https://github.com/user-attachments/assets/a2339909-bb56-4d6c-bff6-94d92e0931eb" />
-*
+* Activate the python environment that you have created.
+* If you have nvidia gpu then you can install Gpu-enabled pytorch by executing given code , this will take few minutes to install.
+* Copy the location of the folder where model.zip has been installed. <img width="1918" height="1078" alt="img3" src="https://github.com/user-attachments/assets/9e65881f-b1a2-4a79-9a8a-0282ed19388e" />
+* Using cd command with directory location to move to the given directory.
+* 
 
 
 
