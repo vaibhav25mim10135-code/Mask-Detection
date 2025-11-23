@@ -39,6 +39,7 @@
 *  You may create your own dataset from label-studio just like me.<img width="1918" height="1078" alt="Screenshot 2025-11-22 094748" src="https://github.com/user-attachments/assets/a0c95966-cd03-4c47-a2ca-29cc77ae57a5" />
 *  Make sure to follow all steps.
 *  For more details you can see Proper_Mask.ipynb file.
+*  You can use images.png file or example.mp4 as example for test.
 
 
 
