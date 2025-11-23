@@ -14,7 +14,7 @@
 * split the images in training and validation
 * install ultralytics
 * configure training
-* train model
+* train model <img width="1915" height="915" alt="train" src="https://github.com/user-attachments/assets/64bb0a13-b7be-4eb0-bb29-a1b1ba736490" />
 
 
 
