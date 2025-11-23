@@ -1,2 +1,4 @@
-# Mask-Detection
-##This is will detect whether a person a wearing a mask or no mask.
+# Mask-Detection😷
+## This program helps to detect whether a person is wearing a 😷 mask or not.
+
+
