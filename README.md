@@ -31,7 +31,7 @@
 * If you have nvidia gpu then you can install Gpu-enabled pytorch by executing given code , this will take few minutes to install.
 * Copy the location of the folder where model.zip has been installed. <img width="1918" height="1078" alt="img3" src="https://github.com/user-attachments/assets/9e65881f-b1a2-4a79-9a8a-0282ed19388e" />
 * Using cd command with directory location to move to the given directory.
-* 
+* Download yolo_detect.py from my github respositry : 
 
 
 
