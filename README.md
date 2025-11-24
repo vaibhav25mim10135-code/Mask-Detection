@@ -7,6 +7,7 @@
 * Google Colab
 * Anaconda Prompt
 * Python(.py/.ipynb)
+* Ultralytics YOLO (YOLOv11s)
 ### Steps to install:-
 * Install dataset the custom dataset on yolo-11s that i have created through label studio , dataset is named as 📁 data.zip.
 * Open Google Colab and open a new notebook
