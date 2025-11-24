@@ -35,7 +35,7 @@
 * Move yolo_detect.py into folder you extracted model.zip
 * Execute the model using code given based on items you are present with like images , video or live streaming devices. <img width="1917" height="1078" alt="img4" src="https://github.com/user-attachments/assets/3c12a049-9502-4d1d-8e3a-eb7b98e828e6" />
 
-### Instruction for testing
+### Instruction for testing:-
 *  Make sure setup enviorments and download & install anaconda prompt is done properly.
 *  You may create your own dataset from label-studio just like me.<img width="1918" height="1078" alt="Screenshot 2025-11-22 094748" src="https://github.com/user-attachments/assets/a0c95966-cd03-4c47-a2ca-29cc77ae57a5" />
 *  Make sure to follow all steps.
